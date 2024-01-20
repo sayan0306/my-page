@@ -21,11 +21,13 @@
   border-radius: 50%;
   -o-object-fit: cover;
      object-fit: cover;
+  order: 1;
 }
 .main .content1 .image-container img {
   width: 100%;
 }
 .main .content1 .intro {
+  order: 2;
   height: 400px;
   text-align: left;
   align-items: flex-start;
@@ -153,9 +155,12 @@
   .main .content1 .image-container {
     width: 380px;
     height: 380px;
+    order: 2;
   }
   .main .content1 .intro {
+    margin-bottom: 30px;
     width: 400px;
+    order: 1;
   }
   .main .content2 {
     width: 520px;
