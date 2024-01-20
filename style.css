@@ -103,7 +103,7 @@
 
 @media (width < 1200px) {
   .main .content1 {
-    width: 920px;
+    width: 900px;
   }
   .main .content1 .image-container {
     width: 380px;
@@ -113,12 +113,12 @@
     width: 400px;
   }
   .main .content2 {
-    width: 920px;
+    width: 900px;
   }
 }
 @media (width < 992px) {
   .main .content1 {
-    width: 700px;
+    width: 750px;
   }
   .main .content1 .image-container {
     width: 300px;
@@ -131,7 +131,7 @@
     width: 100%;
   }
   .main .content2 {
-    width: 700px;
+    width: 720px;
   }
   .main .content2 .big-flex {
     display: grid;
@@ -158,7 +158,7 @@
     width: 400px;
   }
   .main .content2 {
-    width: 510px;
+    width: 520px;
   }
   .main .content2 .big-flex {
     display: grid;
@@ -174,7 +174,7 @@
 }
 @media (width < 576px) {
   .main .content1 {
-    width: 350px;
+    width: 370px;
     flex-direction: column;
   }
   .main .content1 .image-container {
@@ -188,7 +188,7 @@
     width: 100%;
   }
   .main .content2 {
-    width: 300px;
+    width: 320px;
   }
   .main .content2 .texts {
     margin-bottom: 60px;
